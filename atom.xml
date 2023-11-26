@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://yoursite.com</id>
+    <id>https://d1074181045.github.io</id>
     <title>夸黑</title>
     <subtitle></subtitle>
-    <icon>http://yoursite.com/images/favicon.ico</icon>
-    <link href="http://yoursite.com" />
+    <icon>https://d1074181045.github.io/images/favicon.ico</icon>
+    <link href="https://d1074181045.github.io" />
     <author>
       <name>D1074181045</name>
     </author>
     <updated>2023-09-26T16:00:00.000Z</updated>
     <entry>
-        <id>http://yoursite.com/programming/c/LinuxKernel-Timer/</id>
+        <id>https://d1074181045.github.io/programming/c/LinuxKernel-Timer/</id>
         <title>Linux Kernel - Timer</title>
-        <link rel="alternate" href="http://yoursite.com/programming/c/LinuxKernel-Timer/"/>
+        <link rel="alternate" href="https://d1074181045.github.io/programming/c/LinuxKernel-Timer/"/>
         <content type="html">&lt;h2 id=&#34;版本變動&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#版本變動&#34;&gt;#&lt;/a&gt; 版本變動&lt;/h2&gt;
 &lt;h3 id=&#34;initialize&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#initialize&#34;&gt;#&lt;/a&gt; initialize&lt;/h3&gt;
 &lt;p&gt;before  &lt;code&gt;init_timer(struct timer_list *)&lt;/code&gt;&lt;/p&gt;
@@ -38,16 +38,16 @@
 &lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXQua2VybmVsLm9yZy9wdWIvc2NtL2xpbnV4L2tlcm5lbC9naXQvdG9ydmFsZHMvbGludXguZ2l0L2NvbW1pdC8/aWQ9Njg2ZmVmOTI4YmJhNmJlMTNjYWJlNjM5ZjE1NGFmN2Q3MmI2MzEyMA==&#34;&gt;https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=686fef928bba6be13cabe639f154af7d72b63120&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
-        <category term="程式設計" scheme="http://yoursite.com/categories/programming/" />
-        <category term="C" scheme="http://yoursite.com/categories/programming/c/" />
-        <category term="Kernel" scheme="http://yoursite.com/categories/programming/c/Kernel/" />
-        <category term="kernel" scheme="http://yoursite.com/tags/kernel/" />
+        <category term="程式設計" scheme="https://d1074181045.github.io/categories/programming/" />
+        <category term="C" scheme="https://d1074181045.github.io/categories/programming/c/" />
+        <category term="Kernel" scheme="https://d1074181045.github.io/categories/programming/c/Kernel/" />
+        <category term="kernel" scheme="https://d1074181045.github.io/tags/kernel/" />
         <updated>2023-09-26T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://yoursite.com/programming/c/LinuxKernel-%E9%96%8B%E7%99%BC%E7%92%B0%E5%A2%83/</id>
+        <id>https://d1074181045.github.io/programming/c/LinuxKernel-%E9%96%8B%E7%99%BC%E7%92%B0%E5%A2%83/</id>
         <title>Linux Kernel - 開發環境</title>
-        <link rel="alternate" href="http://yoursite.com/programming/c/LinuxKernel-%E9%96%8B%E7%99%BC%E7%92%B0%E5%A2%83/"/>
+        <link rel="alternate" href="https://d1074181045.github.io/programming/c/LinuxKernel-%E9%96%8B%E7%99%BC%E7%92%B0%E5%A2%83/"/>
         <content type="html">&lt;h2 id=&#34;install&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#install&#34;&gt;#&lt;/a&gt; Install&lt;/h2&gt;
 &lt;h3 id=&#34;開發套件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#開發套件&#34;&gt;#&lt;/a&gt; 開發套件&lt;/h3&gt;
 &lt;figure class=&#34;highlight shell&#34;&gt;&lt;figcaption data-lang=&#34;Bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;sudo&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;apt&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;install&lt;/span&gt; build-essential kernel-package libncurses5-dev libelf-dev gcc g++&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h3 id=&#34;linux-headers&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#linux-headers&#34;&gt;#&lt;/a&gt; linux-headers&lt;/h3&gt;
@@ -67,16 +67,16 @@
 &lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL25hbm8tY2hpY2tlbi5ibG9nc3BvdC5jb20vMjAwOS8xMS9saW51eC1tb2R1bGVzaS5odG1s&#34;&gt;http://nano-chicken.blogspot.com/2009/11/linux-modulesi.html&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
-        <category term="程式設計" scheme="http://yoursite.com/categories/programming/" />
-        <category term="C" scheme="http://yoursite.com/categories/programming/c/" />
-        <category term="Kernel" scheme="http://yoursite.com/categories/programming/c/Kernel/" />
-        <category term="kernel" scheme="http://yoursite.com/tags/kernel/" />
+        <category term="程式設計" scheme="https://d1074181045.github.io/categories/programming/" />
+        <category term="C" scheme="https://d1074181045.github.io/categories/programming/c/" />
+        <category term="Kernel" scheme="https://d1074181045.github.io/categories/programming/c/Kernel/" />
+        <category term="kernel" scheme="https://d1074181045.github.io/tags/kernel/" />
         <updated>2023-09-25T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://yoursite.com/programming/operating-system/VirtualBox-Ubuntu-18.04/</id>
+        <id>https://d1074181045.github.io/programming/operating-system/VirtualBox-Ubuntu-18.04/</id>
         <title>用 VirtualBox 安裝 Ubuntu 18.04</title>
-        <link rel="alternate" href="http://yoursite.com/programming/operating-system/VirtualBox-Ubuntu-18.04/"/>
+        <link rel="alternate" href="https://d1074181045.github.io/programming/operating-system/VirtualBox-Ubuntu-18.04/"/>
         <content type="html">&lt;h2 id=&#34;virtualbox-教學&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#virtualbox-教學&#34;&gt;#&lt;/a&gt; VirtualBox 教學&lt;/h2&gt;
 &lt;h3 id=&#34;作業系統下載&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#作業系統下載&#34;&gt;#&lt;/a&gt; 作業系統下載&lt;/h3&gt;
 &lt;p&gt;Ubuntu 18.04 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2Z0cC51YnVudHUtdHcub3JnL21pcnJvci91YnVudHUtcmVsZWFzZXMv&#34;&gt;http://ftp.ubuntu-tw.org/mirror/ubuntu-releases/&lt;/span&gt;&lt;/p&gt;
@@ -160,16 +160,16 @@
 &lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zdGVlbWl0LmNvbS92bS9Ab25lbGVvL29yYWNsZS12bS12aXJ0dWFsYm94LXVidW50dS0xOC0wNC1kZXNrdG9w&#34;&gt;https://steemit.com/vm/@oneleo/oracle-vm-virtualbox-ubuntu-18-04-desktop&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
-        <category term="程式設計" scheme="http://yoursite.com/categories/programming/" />
-        <category term="作業系統" scheme="http://yoursite.com/categories/programming/operating-system/" />
-        <category term="虛擬機器" scheme="http://yoursite.com/tags/%E8%99%9B%E6%93%AC%E6%A9%9F%E5%99%A8/" />
-        <category term="教程" scheme="http://yoursite.com/tags/%E6%95%99%E7%A8%8B/" />
+        <category term="程式設計" scheme="https://d1074181045.github.io/categories/programming/" />
+        <category term="作業系統" scheme="https://d1074181045.github.io/categories/programming/operating-system/" />
+        <category term="虛擬機器" scheme="https://d1074181045.github.io/tags/%E8%99%9B%E6%93%AC%E6%A9%9F%E5%99%A8/" />
+        <category term="教程" scheme="https://d1074181045.github.io/tags/%E6%95%99%E7%A8%8B/" />
         <updated>2023-09-25T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://yoursite.com/programming/c/unit-test/GoogleTest/</id>
+        <id>https://d1074181045.github.io/programming/c/unit-test/GoogleTest/</id>
         <title>Google Test</title>
-        <link rel="alternate" href="http://yoursite.com/programming/c/unit-test/GoogleTest/"/>
+        <link rel="alternate" href="https://d1074181045.github.io/programming/c/unit-test/GoogleTest/"/>
         <content type="html">&lt;h2 id=&#34;install&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#install&#34;&gt;#&lt;/a&gt; Install&lt;/h2&gt;
 &lt;h3 id=&#34;windows&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#windows&#34;&gt;#&lt;/a&gt; Windows&lt;/h3&gt;
 &lt;p&gt;下載並安裝 Visual Studio 2022 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly92aXN1YWxzdHVkaW8ubWljcm9zb2Z0LmNvbS96aC1oYW50L2Rvd25sb2Fkcy8=&#34;&gt;https://visualstudio.microsoft.com/zh-hant/downloads/&lt;/span&gt;&lt;/p&gt;
@@ -219,16 +219,16 @@ genhtml --branch-coverage -o result test.info
 &lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9nY2MuZ251Lm9yZy9vbmxpbmVkb2NzL2djYy9JbnN0cnVtZW50YXRpb24tT3B0aW9ucy5odG1sI0luc3RydW1lbnRhdGlvbi1PcHRpb25z&#34;&gt;https://gcc.gnu.org/onlinedocs/gcc/Instrumentation-Options.html#Instrumentation-Options&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
-        <category term="程式設計" scheme="http://yoursite.com/categories/programming/" />
-        <category term="C" scheme="http://yoursite.com/categories/programming/c/" />
-        <category term="單元測試" scheme="http://yoursite.com/categories/programming/c/unit-test/" />
-        <category term="testing" scheme="http://yoursite.com/tags/testing/" />
+        <category term="程式設計" scheme="https://d1074181045.github.io/categories/programming/" />
+        <category term="C" scheme="https://d1074181045.github.io/categories/programming/c/" />
+        <category term="單元測試" scheme="https://d1074181045.github.io/categories/programming/c/unit-test/" />
+        <category term="testing" scheme="https://d1074181045.github.io/tags/testing/" />
         <updated>2023-09-25T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://yoursite.com/programming/c/unit-test/CUnit/</id>
+        <id>https://d1074181045.github.io/programming/c/unit-test/CUnit/</id>
         <title>CUnit</title>
-        <link rel="alternate" href="http://yoursite.com/programming/c/unit-test/CUnit/"/>
+        <link rel="alternate" href="https://d1074181045.github.io/programming/c/unit-test/CUnit/"/>
         <content type="html">&lt;h2 id=&#34;install&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#install&#34;&gt;#&lt;/a&gt; Install&lt;/h2&gt;
 &lt;h3 id=&#34;windows&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#windows&#34;&gt;#&lt;/a&gt; Windows&lt;/h3&gt;
 &lt;p&gt;下載並安裝 MinGW &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zb3VyY2Vmb3JnZS5uZXQvcHJvamVjdHMvbWluZ3cv&#34;&gt;https://sourceforge.net/projects/mingw/&lt;/span&gt;&lt;/p&gt;
@@ -292,16 +292,16 @@ genhtml --branch-coverage -o result test.info
 &lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9nY2MuZ251Lm9yZy9vbmxpbmVkb2NzL2djYy9JbnN0cnVtZW50YXRpb24tT3B0aW9ucy5odG1sI0luc3RydW1lbnRhdGlvbi1PcHRpb25z&#34;&gt;https://gcc.gnu.org/onlinedocs/gcc/Instrumentation-Options.html#Instrumentation-Options&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
-        <category term="程式設計" scheme="http://yoursite.com/categories/programming/" />
-        <category term="C" scheme="http://yoursite.com/categories/programming/c/" />
-        <category term="單元測試" scheme="http://yoursite.com/categories/programming/c/unit-test/" />
-        <category term="testing" scheme="http://yoursite.com/tags/testing/" />
+        <category term="程式設計" scheme="https://d1074181045.github.io/categories/programming/" />
+        <category term="C" scheme="https://d1074181045.github.io/categories/programming/c/" />
+        <category term="單元測試" scheme="https://d1074181045.github.io/categories/programming/c/unit-test/" />
+        <category term="testing" scheme="https://d1074181045.github.io/tags/testing/" />
         <updated>2023-09-24T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://yoursite.com/programming/c/Linux%E9%80%B2%E9%9A%8E%E6%87%89%E7%94%A8/</id>
+        <id>https://d1074181045.github.io/programming/c/Linux%E9%80%B2%E9%9A%8E%E6%87%89%E7%94%A8/</id>
         <title>Linux 進階應用</title>
-        <link rel="alternate" href="http://yoursite.com/programming/c/Linux%E9%80%B2%E9%9A%8E%E6%87%89%E7%94%A8/"/>
+        <link rel="alternate" href="https://d1074181045.github.io/programming/c/Linux%E9%80%B2%E9%9A%8E%E6%87%89%E7%94%A8/"/>
         <content type="html">&lt;h2 id=&#34;httpd&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#httpd&#34;&gt;#&lt;/a&gt; httpd&lt;/h2&gt;
 &lt;h3 id=&#34;預設路徑&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#預設路徑&#34;&gt;#&lt;/a&gt; 預設路徑&lt;/h3&gt;
 &lt;table&gt;
@@ -516,13 +516,13 @@ www.cin2a27-m101.lhu.edu.tw. 600     IN        A        192.168.100.254
 &lt;figure class=&#34;highlight shell&#34;&gt;&lt;figcaption data-lang=&#34;Bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;vim&lt;/span&gt; local.repo&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;baseurl 為 yum 獲取源 位置&lt;/p&gt;
 &lt;figure class=&#34;highlight vim&#34;&gt;&lt;figcaption data-lang=&#34;vim&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;local_repo&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;name&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;local_repo&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;baseurl&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;ftp&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;192.168&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;0.5&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;/&lt;/span&gt;pub&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;gpgcheck&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;gpgkey&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;file&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;/&lt;/span&gt;etc&lt;span class=&#34;token operator&#34;&gt;/&lt;/span&gt;pki&lt;span class=&#34;token operator&#34;&gt;/&lt;/span&gt;rpm&lt;span class=&#34;token operator&#34;&gt;-&lt;/span&gt;gpg&lt;span class=&#34;token operator&#34;&gt;/&lt;/span&gt;RPM&lt;span class=&#34;token operator&#34;&gt;-&lt;/span&gt;GPG&lt;span class=&#34;token operator&#34;&gt;-&lt;/span&gt;KEY&lt;span class=&#34;token operator&#34;&gt;-&lt;/span&gt;CentOS&lt;span class=&#34;token operator&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;7&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;重建 yum 緩存&lt;/p&gt;
 &lt;figure class=&#34;highlight shell&#34;&gt;&lt;figcaption data-lang=&#34;Bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;yum clean all&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;yum &lt;span class=&#34;token parameter variable&#34;&gt;-y&lt;/span&gt; makecache&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</content>
-        <category term="linux" scheme="http://yoursite.com/tags/linux/" />
+        <category term="linux" scheme="https://d1074181045.github.io/tags/linux/" />
         <updated>2023-08-24T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://yoursite.com/programming/c/Linux%E5%9F%BA%E7%A4%8E%E6%8C%87%E4%BB%A4/</id>
+        <id>https://d1074181045.github.io/programming/c/Linux%E5%9F%BA%E7%A4%8E%E6%8C%87%E4%BB%A4/</id>
         <title>Linux 基礎指令</title>
-        <link rel="alternate" href="http://yoursite.com/programming/c/Linux%E5%9F%BA%E7%A4%8E%E6%8C%87%E4%BB%A4/"/>
+        <link rel="alternate" href="https://d1074181045.github.io/programming/c/Linux%E5%9F%BA%E7%A4%8E%E6%8C%87%E4%BB%A4/"/>
         <content type="html">&lt;h2 id=&#34;查詢應用&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#查詢應用&#34;&gt;#&lt;/a&gt; 查詢應用&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -1187,7 +1187,7 @@ www.cin2a27-m101.lhu.edu.tw. 600     IN        A        192.168.100.254
 &lt;/tbody&gt;
 &lt;/table&gt;
 </content>
-        <category term="linux" scheme="http://yoursite.com/tags/linux/" />
+        <category term="linux" scheme="https://d1074181045.github.io/tags/linux/" />
         <updated>2023-08-23T16:00:00.000Z</updated>
     </entry>
 </feed>

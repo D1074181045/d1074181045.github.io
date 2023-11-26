@@ -3,8 +3,8 @@
     <channel>
         <title>夸黑</title>
         <subtitle></subtitle>
-        <icon>http://yoursite.com/images/favicon.ico</icon>
-        <link>http://yoursite.com</link>
+        <icon>https://d1074181045.github.io/images/favicon.ico</icon>
+        <link>https://d1074181045.github.io</link>
         <author>
           <name>D1074181045</name>
         </author>
@@ -13,13 +13,13 @@
         <pubDate>Wed, 27 Sep 2023 00:00:00 +0800</pubDate>
         <lastBuildDate>Wed, 27 Sep 2023 00:00:00 +0800</lastBuildDate>
         <item>
-            <guid isPermalink="true">http://yoursite.com/programming/c/LinuxKernel-Timer/</guid>
+            <guid isPermalink="true">https://d1074181045.github.io/programming/c/LinuxKernel-Timer/</guid>
             <title>Linux Kernel - Timer</title>
-            <link>http://yoursite.com/programming/c/LinuxKernel-Timer/</link>
-            <category term="程式設計" scheme="http://yoursite.com/categories/programming/" />
-            <category term="C" scheme="http://yoursite.com/categories/programming/c/" />
-            <category term="Kernel" scheme="http://yoursite.com/categories/programming/c/Kernel/" />
-            <category term="kernel" scheme="http://yoursite.com/tags/kernel/" />
+            <link>https://d1074181045.github.io/programming/c/LinuxKernel-Timer/</link>
+            <category term="程式設計" scheme="https://d1074181045.github.io/categories/programming/" />
+            <category term="C" scheme="https://d1074181045.github.io/categories/programming/c/" />
+            <category term="Kernel" scheme="https://d1074181045.github.io/categories/programming/c/Kernel/" />
+            <category term="kernel" scheme="https://d1074181045.github.io/tags/kernel/" />
             <pubDate>Wed, 27 Sep 2023 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;版本變動&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#版本變動&#34;&gt;#&lt;/a&gt; 版本變動&lt;/h2&gt;
 &lt;h3 id=&#34;initialize&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#initialize&#34;&gt;#&lt;/a&gt; initialize&lt;/h3&gt;
@@ -48,13 +48,13 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://yoursite.com/programming/c/LinuxKernel-%E9%96%8B%E7%99%BC%E7%92%B0%E5%A2%83/</guid>
+            <guid isPermalink="true">https://d1074181045.github.io/programming/c/LinuxKernel-%E9%96%8B%E7%99%BC%E7%92%B0%E5%A2%83/</guid>
             <title>Linux Kernel - 開發環境</title>
-            <link>http://yoursite.com/programming/c/LinuxKernel-%E9%96%8B%E7%99%BC%E7%92%B0%E5%A2%83/</link>
-            <category term="程式設計" scheme="http://yoursite.com/categories/programming/" />
-            <category term="C" scheme="http://yoursite.com/categories/programming/c/" />
-            <category term="Kernel" scheme="http://yoursite.com/categories/programming/c/Kernel/" />
-            <category term="kernel" scheme="http://yoursite.com/tags/kernel/" />
+            <link>https://d1074181045.github.io/programming/c/LinuxKernel-%E9%96%8B%E7%99%BC%E7%92%B0%E5%A2%83/</link>
+            <category term="程式設計" scheme="https://d1074181045.github.io/categories/programming/" />
+            <category term="C" scheme="https://d1074181045.github.io/categories/programming/c/" />
+            <category term="Kernel" scheme="https://d1074181045.github.io/categories/programming/c/Kernel/" />
+            <category term="kernel" scheme="https://d1074181045.github.io/tags/kernel/" />
             <pubDate>Tue, 26 Sep 2023 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;install&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#install&#34;&gt;#&lt;/a&gt; Install&lt;/h2&gt;
 &lt;h3 id=&#34;開發套件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#開發套件&#34;&gt;#&lt;/a&gt; 開發套件&lt;/h3&gt;
@@ -77,13 +77,13 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://yoursite.com/programming/operating-system/VirtualBox-Ubuntu-18.04/</guid>
+            <guid isPermalink="true">https://d1074181045.github.io/programming/operating-system/VirtualBox-Ubuntu-18.04/</guid>
             <title>用 VirtualBox 安裝 Ubuntu 18.04</title>
-            <link>http://yoursite.com/programming/operating-system/VirtualBox-Ubuntu-18.04/</link>
-            <category term="程式設計" scheme="http://yoursite.com/categories/programming/" />
-            <category term="作業系統" scheme="http://yoursite.com/categories/programming/operating-system/" />
-            <category term="虛擬機器" scheme="http://yoursite.com/tags/%E8%99%9B%E6%93%AC%E6%A9%9F%E5%99%A8/" />
-            <category term="教程" scheme="http://yoursite.com/tags/%E6%95%99%E7%A8%8B/" />
+            <link>https://d1074181045.github.io/programming/operating-system/VirtualBox-Ubuntu-18.04/</link>
+            <category term="程式設計" scheme="https://d1074181045.github.io/categories/programming/" />
+            <category term="作業系統" scheme="https://d1074181045.github.io/categories/programming/operating-system/" />
+            <category term="虛擬機器" scheme="https://d1074181045.github.io/tags/%E8%99%9B%E6%93%AC%E6%A9%9F%E5%99%A8/" />
+            <category term="教程" scheme="https://d1074181045.github.io/tags/%E6%95%99%E7%A8%8B/" />
             <pubDate>Tue, 26 Sep 2023 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;virtualbox-教學&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#virtualbox-教學&#34;&gt;#&lt;/a&gt; VirtualBox 教學&lt;/h2&gt;
 &lt;h3 id=&#34;作業系統下載&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#作業系統下載&#34;&gt;#&lt;/a&gt; 作業系統下載&lt;/h3&gt;
@@ -170,13 +170,13 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://yoursite.com/programming/c/unit-test/GoogleTest/</guid>
+            <guid isPermalink="true">https://d1074181045.github.io/programming/c/unit-test/GoogleTest/</guid>
             <title>Google Test</title>
-            <link>http://yoursite.com/programming/c/unit-test/GoogleTest/</link>
-            <category term="程式設計" scheme="http://yoursite.com/categories/programming/" />
-            <category term="C" scheme="http://yoursite.com/categories/programming/c/" />
-            <category term="單元測試" scheme="http://yoursite.com/categories/programming/c/unit-test/" />
-            <category term="testing" scheme="http://yoursite.com/tags/testing/" />
+            <link>https://d1074181045.github.io/programming/c/unit-test/GoogleTest/</link>
+            <category term="程式設計" scheme="https://d1074181045.github.io/categories/programming/" />
+            <category term="C" scheme="https://d1074181045.github.io/categories/programming/c/" />
+            <category term="單元測試" scheme="https://d1074181045.github.io/categories/programming/c/unit-test/" />
+            <category term="testing" scheme="https://d1074181045.github.io/tags/testing/" />
             <pubDate>Tue, 26 Sep 2023 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;install&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#install&#34;&gt;#&lt;/a&gt; Install&lt;/h2&gt;
 &lt;h3 id=&#34;windows&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#windows&#34;&gt;#&lt;/a&gt; Windows&lt;/h3&gt;
@@ -229,13 +229,13 @@ genhtml --branch-coverage -o result test.info
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://yoursite.com/programming/c/unit-test/CUnit/</guid>
+            <guid isPermalink="true">https://d1074181045.github.io/programming/c/unit-test/CUnit/</guid>
             <title>CUnit</title>
-            <link>http://yoursite.com/programming/c/unit-test/CUnit/</link>
-            <category term="程式設計" scheme="http://yoursite.com/categories/programming/" />
-            <category term="C" scheme="http://yoursite.com/categories/programming/c/" />
-            <category term="單元測試" scheme="http://yoursite.com/categories/programming/c/unit-test/" />
-            <category term="testing" scheme="http://yoursite.com/tags/testing/" />
+            <link>https://d1074181045.github.io/programming/c/unit-test/CUnit/</link>
+            <category term="程式設計" scheme="https://d1074181045.github.io/categories/programming/" />
+            <category term="C" scheme="https://d1074181045.github.io/categories/programming/c/" />
+            <category term="單元測試" scheme="https://d1074181045.github.io/categories/programming/c/unit-test/" />
+            <category term="testing" scheme="https://d1074181045.github.io/tags/testing/" />
             <pubDate>Mon, 25 Sep 2023 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;install&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#install&#34;&gt;#&lt;/a&gt; Install&lt;/h2&gt;
 &lt;h3 id=&#34;windows&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#windows&#34;&gt;#&lt;/a&gt; Windows&lt;/h3&gt;
@@ -302,10 +302,10 @@ genhtml --branch-coverage -o result test.info
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://yoursite.com/programming/c/Linux%E9%80%B2%E9%9A%8E%E6%87%89%E7%94%A8/</guid>
+            <guid isPermalink="true">https://d1074181045.github.io/programming/c/Linux%E9%80%B2%E9%9A%8E%E6%87%89%E7%94%A8/</guid>
             <title>Linux 進階應用</title>
-            <link>http://yoursite.com/programming/c/Linux%E9%80%B2%E9%9A%8E%E6%87%89%E7%94%A8/</link>
-            <category term="linux" scheme="http://yoursite.com/tags/linux/" />
+            <link>https://d1074181045.github.io/programming/c/Linux%E9%80%B2%E9%9A%8E%E6%87%89%E7%94%A8/</link>
+            <category term="linux" scheme="https://d1074181045.github.io/tags/linux/" />
             <pubDate>Fri, 25 Aug 2023 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;httpd&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#httpd&#34;&gt;#&lt;/a&gt; httpd&lt;/h2&gt;
 &lt;h3 id=&#34;預設路徑&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#預設路徑&#34;&gt;#&lt;/a&gt; 預設路徑&lt;/h3&gt;
@@ -523,10 +523,10 @@ www.cin2a27-m101.lhu.edu.tw. 600     IN        A        192.168.100.254
 &lt;figure class=&#34;highlight shell&#34;&gt;&lt;figcaption data-lang=&#34;Bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;yum clean all&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;yum &lt;span class=&#34;token parameter variable&#34;&gt;-y&lt;/span&gt; makecache&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt; ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://yoursite.com/programming/c/Linux%E5%9F%BA%E7%A4%8E%E6%8C%87%E4%BB%A4/</guid>
+            <guid isPermalink="true">https://d1074181045.github.io/programming/c/Linux%E5%9F%BA%E7%A4%8E%E6%8C%87%E4%BB%A4/</guid>
             <title>Linux 基礎指令</title>
-            <link>http://yoursite.com/programming/c/Linux%E5%9F%BA%E7%A4%8E%E6%8C%87%E4%BB%A4/</link>
-            <category term="linux" scheme="http://yoursite.com/tags/linux/" />
+            <link>https://d1074181045.github.io/programming/c/Linux%E5%9F%BA%E7%A4%8E%E6%8C%87%E4%BB%A4/</link>
+            <category term="linux" scheme="https://d1074181045.github.io/tags/linux/" />
             <pubDate>Thu, 24 Aug 2023 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;查詢應用&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#查詢應用&#34;&gt;#&lt;/a&gt; 查詢應用&lt;/h2&gt;
 &lt;table&gt;
