@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://d1074181045.github.io/programming/c/unit-test/GoogleTest/</loc>
+    
+    <lastmod>2023-12-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://d1074181045.github.io/programming/c/unit-test/CUnit/</loc>
+    
+    <lastmod>2023-12-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://d1074181045.github.io/programming/c/%E6%8C%87%E6%A8%99(Pointers)/</loc>
     
     <lastmod>2023-12-02</lastmod>
@@ -39,24 +57,6 @@
   
   <url>
     <loc>https://d1074181045.github.io/programming/operating-system/VirtualBox-Ubuntu-18.04/</loc>
-    
-    <lastmod>2023-11-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://d1074181045.github.io/programming/c/unit-test/GoogleTest/</loc>
-    
-    <lastmod>2023-11-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://d1074181045.github.io/programming/c/unit-test/CUnit/</loc>
     
     <lastmod>2023-11-30</lastmod>
     
